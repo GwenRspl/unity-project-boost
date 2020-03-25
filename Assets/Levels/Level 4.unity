@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.5
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.22902486, g: 0.22272125, b: 0.18877503, a: 0.5}
+  m_IndirectSpecularColor: {r: 0.30631894, g: 0.3311954, b: 0.3520665, a: 0.5}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2093,22 +2093,22 @@ PrefabInstance:
     - target: {fileID: 3722584709608739546, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.16429852
+      value: 0.118516006
       objectReference: {fileID: 0}
     - target: {fileID: 3722584709608739546, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.25615463
+      value: -0.21619567
       objectReference: {fileID: 0}
     - target: {fileID: 3722584709608739546, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.5850689
+      value: -0.22656333
       objectReference: {fileID: 0}
     - target: {fileID: 3722584709608739546, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.75172156
+      value: 0.94227517
       objectReference: {fileID: 0}
     - target: {fileID: 3722584709608739546, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
@@ -2118,17 +2118,17 @@ PrefabInstance:
     - target: {fileID: 3722584709608739546, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -3.022
+      value: 7.2030005
       objectReference: {fileID: 0}
     - target: {fileID: 3722584709608739546, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 35.322002
+      value: -27.697
       objectReference: {fileID: 0}
     - target: {fileID: 3722584709608739546, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 74.825005
+      value: -28.817001
       objectReference: {fileID: 0}
     - target: {fileID: 3722584709608739547, guid: 71890f26750eaaa44a14366d829c46c2,
         type: 3}
